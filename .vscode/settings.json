@@ -97,5 +97,6 @@
     "sonarlint.connectedMode.project": {
       "connectionId": "emsesp",
       "projectKey": "emsesp_EMS-ESP32"
-    }
+    },
+    "idf.pythonInstallPath": "C:\\Users\\vanes\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
   }
